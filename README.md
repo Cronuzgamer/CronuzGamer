@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel Moura 👋
 
-- 🌱 Eu estou estudando no momento Java
-- 🔭 Eu estou trabalhando atualmente com Unreal Engine 4 
+- 🌱 Eu estou estudando no momento Java e Angular
+- 🔭 Eu estou em busca de vaga de trabalho. 
 - 📫 Contate-me no Email: gabrieljknd@gmail.com
 - 😄 Pronouns: ele/dele
 
