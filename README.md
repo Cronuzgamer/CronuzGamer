@@ -3,7 +3,6 @@
 - 🌱 Eu estou estudando no momento Java e Spring Framework(FULL STACK)
 - 🔭 Eu estou em busca de vaga de trabalho. 
 - 📫 Contate-me no Email: gabrieljknd@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Cronuzgamer">
